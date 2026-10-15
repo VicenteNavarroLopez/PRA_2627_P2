@@ -1,3 +1,5 @@
+#include <vector>
+#include<utility>
 <template T>
 
 int Busquedabinaria(val X, val[]V, int ini, int fin){
